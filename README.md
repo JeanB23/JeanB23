@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @JeanB23
 - 👀 I’m interested in codding and video games
-- 🌱 I’m currently learning HTML, CS, JS
-- 📫 How to reach me with discord : Neosty#2304
+- 🌱 I’m currently learning HTML, CS, JS, PHP
+- 📫 How to reach me with discord : Neosty#4267
