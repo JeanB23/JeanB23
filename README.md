@@ -1,4 +1,4 @@
-# Hi, I’m Jean Bergaut !
+# Hi, I’m Jean !
 I like codding and work on projects and play video games from time to time !  
 Also working on PAYDAY 2 mods, here's my [modworkshop page](https://modworkshop.net/user/94721)
 
